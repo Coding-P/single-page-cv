@@ -1,0 +1,30 @@
+.gr{
+    color: green;
+}
+
+.bl{
+    color: blue; 
+    font-size: 18px; 
+}
+
+section{
+    margin-bottom: 40px;
+}
+
+body{
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+
+hr{
+   margin-top: 70px;
+   margin-right: 100px;
+   height: 2px;
+   color: black;
+   background-color: black;
+   border: none;
+}
+
+footer{
+    margin-bottom: 60px
+}
